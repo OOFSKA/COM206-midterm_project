@@ -1,4 +1,4 @@
-# COM206-midterm project
+# COM206-midterm project by Taha Adem
 Welcome to the COM206-miterm project repository.
 This repository is designed to publish my project for my "COM206 Visual Programming" midterm.
 
