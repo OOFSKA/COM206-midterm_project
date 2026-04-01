@@ -52,7 +52,7 @@ class SecondRoute extends StatelessWidget {
             child: const Text('Button for something 2'),
           ),
           ElevatedButton(
-            onPressed: null,
+            onPressed: () {},
             child: const Text('Button for something 3'),
           ),
           ElevatedButton(
@@ -60,7 +60,7 @@ class SecondRoute extends StatelessWidget {
             child: const Text('Button for something 4'),
           ),
           ElevatedButton(
-            onPressed: null,
+            onPressed: () {},
             child: const Text('Button for something 5'),
           ),
           ElevatedButton(
@@ -68,11 +68,11 @@ class SecondRoute extends StatelessWidget {
             child: const Text('Button for something 6'),
           ),
           ElevatedButton(
-            onPressed: null,
+            onPressed: () {},
             child: const Text('Button for something 7'),
           ),
           ElevatedButton(
-            onPressed: null,
+            onPressed: () {},
             child: const Text('Button for something 8'),
           ),
         ],
