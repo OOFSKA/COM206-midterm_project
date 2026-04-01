@@ -9,4 +9,4 @@ This project was made for android phones in consideration but could work on othe
 
 
 # Task Flow
-The application uses stacks to move between pages. first page gets pushed in the n the second page. and pops when returning back to first page.
+The application uses stacks to move between pages. first page gets pushed in the and the second page. and pops when returning back to first page.
