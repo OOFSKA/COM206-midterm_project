@@ -8,5 +8,5 @@ This project is a first step into using flutter for me to create a basic applica
 This project was made for android phones in consideration but could work on other devices.
 
 
-#Task Flow
+# Task Flow
 The application uses stacks to move between pages. first page gets pushed in the n the second page. and pops when returning back to first page.
