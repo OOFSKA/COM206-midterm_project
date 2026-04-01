@@ -1,4 +1,4 @@
-# com206_project
+# Submission
 
 A flutter project for my midterm.
 
