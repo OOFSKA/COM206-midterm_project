@@ -1,4 +1,4 @@
-# Application Basics
+# Basic Application
 
 A flutter project for my midterm.
 
