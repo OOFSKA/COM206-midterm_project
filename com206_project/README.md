@@ -1,4 +1,4 @@
-# Submission
+# Application Basics
 
 A flutter project for my midterm.
 
